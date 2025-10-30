@@ -27,7 +27,7 @@ Me gusta crear proyectos prácticos y compartir mi progreso en GitHub / LinkedIn
 ## 📂 Proyectos destacados
 Aquí encontrarás algunos de mis repositorios más relevantes:
 
-- [Portafolio de certificaciones](https://github.com/zoesantillan/certificaciones) – Mis cursos y badges
+- [Portafolio de certificaciones](https://github.com/zoesantillan/learning-journey) – Mis cursos y badges
 - Proyectos en construccon. . .
 
 ---
