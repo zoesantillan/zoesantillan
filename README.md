@@ -1,16 +1,38 @@
-## Hi there 👋
+# ¡Hola! Soy Zoe ;)
 
-<!--
-**zoesantillan/zoesantillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de primer año de **Licenciatura en Sistemas**  
+💻 Enfocada en **Desarrollo Web** y **Ciencia de Datos**  
+📚 Actualmente aprendiendo **Python**, **JavaScript**, **Git**, **GitHub** y **VS Code**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+Formo parte del programa **Oracle Next Education (ONE)** de **Alura Latam**, donde curso la formación en **Data Science**.  
+Me gusta crear proyectos prácticos y compartir mi progreso en GitHub / LinkedIn.  
+
+📝 En este perfil encontrarás mis **proyectos, ejercicios y avances**, documentados mientras construyo mi ruta de aprendizaje.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+| Lenguajes | Herramientas | Intereses |
+|-----------|--------------|-----------|
+| Python 🐍 | Git & GitHub 🧩 | Ciencia de Datos 📊 |
+| JavaScript ⚡ | VS Code 💻 | Desarrollo Web 🌐 |
+| HTML & CSS | Terminal 🖥️ | Aprendizaje Continuo 📚 |
+
+---
+
+## 📂 Proyectos destacados
+Aquí encontrarás algunos de mis repositorios más relevantes:
+
+- [Portafolio de certificaciones](https://github.com/zoesantillan/certificaciones) – Mis cursos y badges
+- Proyectos en construccon. . .
+
+---
+
+## 🌐 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zoe-santillan-586b94316)
+[![Correo](https://img.shields.io/badge/Email--lightgrey?style=for-the-badge&logo=gmail)](mailto:zoeguadalupesantillan@gmail.com)
