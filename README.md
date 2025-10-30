@@ -1,4 +1,4 @@
-# ¡Hola! Soy Zoe ;)
+# 🌷¡Hola! Soy Zoe ;)
 
 🎓 Estudiante de primer año de **Licenciatura en Sistemas**  
 💻 Enfocada en **Desarrollo Web** y **Ciencia de Datos**  
@@ -25,7 +25,7 @@ Me gusta crear proyectos prácticos y compartir mi progreso en GitHub / LinkedIn
 ---
 
 ## 📂 Proyectos destacados
-Aquí encontrarás algunos de mis repositorios más relevantes:
+Acá encontrarás algunos de mis repositorios más relevantes:
 
 - [Portafolio de certificaciones](https://github.com/zoesantillan/learning-journey) – Mis cursos y badges
 - Proyectos en construccon. . .
